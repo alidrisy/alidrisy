@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/AbdulrahmanAdeb" target="blank"><img src="https://img.shields.io/twitter/follow/AbdulrahmanAdeb?logo=twitter&style=for-the-badge" alt="AbdulrahmanAdeb" /></a> </p>
 
-- Skills **Python, C, Node.js, jQuery, Html, Css, DevOps**
+- Skills **Python, C, Node.js, jQuery, Html, Css, DevOps, MySQL, Flask**
 
 -  Reach me **a.alidrisy6@gmail.com**
 
