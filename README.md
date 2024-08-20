@@ -22,7 +22,7 @@
 <b>My GitHub Stats</b>
 
 ![](https://github-readme-stats.vercel.app/api?username=alidrisy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<a href="http://www.github.com/alidrisy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alidrisy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
+![](https://github-readme-streak-stats.herokuapp.com/?user=alidrisy&theme=dark&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alidrisy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=alidrisy&icon=0&color=0)](https://visitcount.itsvg.in)
