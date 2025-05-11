@@ -125,7 +125,6 @@ I'm passionate about giving back and collaborating within the developer communit
       <a href="https://github.com/alidrisy/ijar" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=alidrisy&repo=ijar&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=tokyonight" alt="Ijar Project Pin" />
       </a>
-      <p align="center"><em>Description of Ijar project - e.g., A platform for [purpose]. Built with [Key Tech].</em></p>
     </td>
     </tr>
 </table>
