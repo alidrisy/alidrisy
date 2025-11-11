@@ -13,7 +13,7 @@
   <a href="mailto:a.alidrisy6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abdulrahman Alidrisy" />
   </a>
-  <a href="https://www.linkedin.com/in/abdulrahman-alidrisy-7940b8271" target="_blank">
+  <a href="https://www.linkedin.com/in/alidrisy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Abdulrahman Alidrisy on LinkedIn" />
   </a>
   <a href="https://github.com/alidrisy?tab=followers" target="_blank">
