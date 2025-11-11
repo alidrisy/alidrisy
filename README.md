@@ -32,7 +32,7 @@ I'm a passionate and results-driven Software Engineer, an ALX program alumnus, w
 - 👯 I’m looking to collaborate on **open-source projects related to backend development, Python, or DevOps tools.**
 - 🤔 I’m looking for help with **diving deeper into Site Reliability Engineering (SRE) principles.**
 - 💬 Ask me about **Python, Flask, Node.js, Docker, or anything backend-related!**
-- 📫 How to reach me: **a.alidrisy6@gmail.com** or find me on [LinkedIn](https://www.linkedin.com/in/abdulrahman-alidrisy-7940b8271).
+- 📫 How to reach me: **a.alidrisy6@gmail.com** or find me on [LinkedIn](https://www.linkedin.com/in/alidrisy).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I believe that any complex problem can be broken down into smaller, solvable pieces – much like debugging code!**
 
